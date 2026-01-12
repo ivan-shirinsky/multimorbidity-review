@@ -1,19 +1,18 @@
 <!-- build: pandoc multimorbidity_paper.md -o after_revision.docx --reference-doc=медицинский_совет_шаблон_пандок.docx -->
 
+**Авторы**  
+Ширинский И.В. ¹, ORCID: https://orcid.org/0000-0002-8603-3406, e-mail: ivan.shirinsky@gmail.com  
+Ширинский В.С.¹, ORCID: 0000-0002-4922-9303, e-mail: valery.shirinsky@gmail.com  
+**Наименование учреждения**   
+¹ НИИ терапии и профилактической медицины (НИИТПМ) – филиал ФИЦ Институт цитологии и генетики СО РАН. Фактический адрес: 630089, г. Новосибирск, ул. Б. Богаткова, 175/1. Юридический адрес: 	630090, г. Новосибирск, пр-т Академика Лаврентьева, 10. 
+
+
 
 **Название статьи**  
 Современные проблемы мультиморбидности (обзор литературы)  
 
-**Авторы**  
-Ширинский И.В. ¹, ORCID: https://orcid.org/0000-0002-8603-3406, e-mail: ivan.shirinsky@gmail.com  
-Ширинский В.С.¹, ORCID: 0000-0002-4922-9303, e-mail: valery.shirinsky@gmail.com  
 
-**Наименование учреждения**   
-¹ НИИ терапии и профилактической медицины (НИИТПМ) – филиал ФИЦ Институт цитологии и генетики СО РАН, 
-630089, г. Новосибирск, ул. Бориса Богаткова, 175/1, Российская Федерация
-
-
-**Резюме**  
+**Аннотация**  
 
 Проблеме мультиморбидности посвящено значительное количество зарубежных и отечественных исследований. Однако в российской литературе сравнительно немного обзорных работ, обобщающих современные данные по этой теме. Цель настоящего обзора — описание основных современных проблем в изучении мультиморбидности. В качестве источников использованы оригинальные и обзорные статьи из баз данных PubMed и РИНЦ, посвящённые эпидемиологии, факторам риска, механизмам развития, клиническим исходам и подходам к лечению. Формализованная стратегия поиска не применялась. Обзор не ставит задачи исчерпывающего освещения всех аспектов мультиморбидности; акцент сделан на направлениях, наиболее значимых для клинической практики и дальнейших исследований, а также наименее отражённых в современной российской литературе.
 Проанализированы данные о связи распространённости мультиморбидности с возрастом, полом, социально-экономическими условиями и уровнем образования. Рассмотрены кластеры мультиморбидности, их динамика и клиническое значение, а также методические трудности их описания. Особое внимание уделено сочетаниям заболеваний с преобладанием мышечно-скелетных болезней и синтропиям — генетически и патогенетически обусловленным комбинациям болезней.
@@ -25,7 +24,15 @@
 **Ключевые слова:**  
 мультиморбидность; кластеры мультиморбидности; факторы риска мультиморбидности; социально-экономические детерминанты мультиморбидности; синтропия; полипрагмазия; биопсихосоциальная модель мультиморбидности; пациент-ориентированная терапия мультиморбидности; качество жизни; коморбидность.
 
-**Метаданные на английском языке**  
+**Англоязычное описание**  
+**Author names**  
+Valery Shirinsky ¹, Ivan V. Shirinsky ¹  
+
+**Affiliation**  
+
+ ¹Research Institute of Internal and Preventive Medicine
+--Branch of the Federal Research Center  Institute of Cytology and Genetics SB RAS, Novosibirsk, Russian
+ Federation, 630089, Novosibirsk, Borisa Bogatkova st., 175/1
 
 **Article title**  
 Current issues in multimorbidity: a literature review  
@@ -38,17 +45,6 @@ The data analyzed include associations of multimorbidity prevalence with age, se
 Molecular and genetic mechanisms are also considered, including alterations of the immune and neuroendocrine systems, chronic low-grade inflammation, epigenetic dysregulation, telomere shortening, mitochondrial dysfunction, cellular senescence, and stem cell exhaustion. The review further addresses the role of socioeconomic, psychosocial, and behavioral determinants, as well as the contribution of pharmacotherapy and polypharmacy to the development of multimorbidity.
 
 In conclusion, intensified research is needed to elucidate etiological factors, patterns of cluster formation, and molecular–genetic mechanisms, as well as to identify effective and economically sustainable models for the management of patients with multiple chronic conditions within a patient-centered framework.
-
-**Author names**  
-
-Valery Shirinsky ¹, Ivan V. Shirinsky ¹  
-
-**Affiliation**  
-
- ¹Research Institute of Internal and Preventive Medicine
---Branch of the Federal Research Center  Institute of Cytology and Genetics SB RAS, Novosibirsk, Russian
- Federation, 630089, Novosibirsk, Borisa Bogatkova st., 175/1
-
 
 **Key words**
 multimorbidity; multimorbidity clusters; risk factors; socio-economic determinants; syntropy; musculoskeletal disorders; polypharmacy; patient-centered care.
@@ -283,6 +279,17 @@ multimorbidity; multimorbidity clusters; risk factors; socio-economic determinan
  древнегреческого философа Платона, произнесенные еще до новой эры, как
  никогда актуальны сегодня.
 
+**Финансирование**  
+Подготовка обзора осуществлялась за счёт средств, выделенных на выполнение государственного задания НИИТПМ – филиала ИЦиГ СО РАН, тема FWNR-2024-0002.  
+
+**Funding**  
+The preparation of this review was supported by the State assignment to the Research Institute of Internal and Preventive Medicine (NIITPM), Branch of the Federal Research Center Institute of Cytology and Genetics, SB RAS, Novosibirsk, Russian Federation (project FWNR-2024-0002).  
+
+**Конфликт интересов**   
+Отсутствует 
+
+**Conflict of interest**  
+None declared
 
 **Литература**  
 
@@ -545,24 +552,19 @@ multimorbidity; multimorbidity clusters; risk factors; socio-economic determinan
 - Ширинский Валерий Степанович, д.м.н., профессор, ведущий научный сотрудник, НИИ терапии и профилактической медицины (НИИТПМ) – филиал ФИЦ Институт цитологии и генетики СО РАН, 
 630089, г. Новосибирск, ул. Бориса Богаткова, 175/1, Российская Федерация.  ORCID: 0000-0002-4922-9303, e-mail: valery.shirinsky@gmail.com  
 
-**Author information**  
+**Information about the authors**  
 
-- Shirinsky Ivan, 
+- Ivan V. Shirinsky, 
 Rheumatologist, MD, PhD, D.Sc., Leading Research Scientist,  Head of the Laboratory for the Study of Multimorbidity in Rheumatic Diseases, 
  Research Institute of Internal and Preventive Medicine–Branch of the Institute of Cytology and Genetics, Siberian Branch of Russian Academy of Sciences
 175/1 B. Bogatkova Street, Novosibirsk 630089, Russia
 ORCID: https://orcid.org/0000-0002-8603-3406, e-mail: ivan.shirinsky@gmail.com  
 
-- Shirinsky Valery, Professor, MD, PhD, D.Sc.  Leading Research Scientist,  Laboratory for the Study of Multimorbidity in Rheumatic Diseases, 
+- Valery S. Shirinsky, Professor, MD, PhD, D.Sc.  Leading Research Scientist,  Laboratory for the Study of Multimorbidity in Rheumatic Diseases, 
  Research Institute of Internal and Preventive Medicine–Branch of the Institute of Cytology and Genetics, Siberian Branch of Russian Academy of Sciences, 175/1 B. Bogatkova Street, Novosibirsk 630089, Russia
 ORCID: https://orcid.org/0000-0002-8603-3406, e-mail: valery.shirinsky@gmail.com  
 
 
-**Конфликт интересов**   
-Отсутствует 
-
-**Conflict of interest**  
-None declared
 
 **Информация о вкладе авторов**  
 Ширинский В.С. — идея обзора, подготовка первоначального варианта текста.  
@@ -575,8 +577,3 @@ I.V. Shirinsky — revision and editing of the review, preparation of the figure
 Both authors contributed to writing the manuscript, and all authors read and approved the final version.  
 
 
-**Благодарности**  
-Подготовка обзора осуществлялась за счёт средств, выделенных на выполнение государственного задания НИИТПМ – филиала ИЦиГ СО РАН, тема FWNR-2024-0002.  
-
-**Acknowledgements**  
-The preparation of this review was supported by the State assignment to the Research Institute of Internal and Preventive Medicine (NIITPM), Branch of the Federal Research Center Institute of Cytology and Genetics, SB RAS, Novosibirsk, Russian Federation (project FWNR-2024-0002).  
