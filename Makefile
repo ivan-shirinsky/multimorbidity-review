@@ -1,35 +1,39 @@
-# Universal Makefile for Pandoc Markdown → DOCX
-# Usage: just run `make`
-
 PANDOC := pandoc
 REFDOC := reference.pandoc.docx
 
-# Automatically detect the first .md file (excluding README.md if needed)
 SRC := $(filter-out README.md,$(wildcard *.md))
 DOC := $(basename $(SRC))
 
-PANDOC_OPTS := \
+PANDOC_DOCX := \
 	--from=markdown \
 	--to=docx \
 	--reference-doc=$(REFDOC) \
 	--standalone
 
-.PHONY: all docx clean open info
+PANDOC_PDF := \
+	--standalone \
+	--pdf-engine=xelatex
 
-all: docx
+.PHONY: all docx pdf clean open info
+
+all: docx pdf
 
 docx: $(DOC).docx
+pdf: $(DOC).pdf
 
 $(DOC).docx: $(SRC) $(REFDOC)
-	$(PANDOC) $(PANDOC_OPTS) -o $@ $<
+	$(PANDOC) $(PANDOC_DOCX) -o $@ $<
 
-open: $(DOC).docx
+$(DOC).pdf: $(SRC)
+	$(PANDOC) $(PANDOC_PDF) -o $@ $<
+
+open: $(DOC).pdf
 	xdg-open $< >/dev/null 2>&1 || true
 
 info:
 	@echo "Source Markdown: $(SRC)"
-	@echo "Output DOCX:     $(DOC).docx"
-	@echo "Reference DOCX:  $(REFDOC)"
+	@echo "DOCX: $(DOC).docx"
+	@echo "PDF:  $(DOC).pdf"
 
 clean:
-	rm -f *.docx
+	rm -f *.docx *.pdf
