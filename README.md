@@ -34,12 +34,12 @@ In conclusion, intensified research is needed to elucidate etiological factors, 
  
 **English**
 
-Shirinsky IV. *Modern Challenges of Multimorbidity Research*. Zenodo; 2026.  
+Shirinsky I, Shirinsky V. *Modern Challenges of Multimorbidity Research*. Zenodo; 2026.  
 https://doi.org/10.5281/zenodo.20392649
 
 **Русский**
 
-Ширинский И.В. *Современные проблемы мультиморбидности*. Zenodo; 2026.  
+Ширинский И.В., Ширинский В.С. *Современные проблемы мультиморбидности*. Zenodo; 2026.  
 https://doi.org/10.5281/zenodo.20392649
 
 ## License
