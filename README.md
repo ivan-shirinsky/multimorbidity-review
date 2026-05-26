@@ -31,8 +31,7 @@ Molecular and genetic mechanisms are also considered, including alterations of t
 In conclusion, intensified research is needed to elucidate etiological factors, patterns of cluster formation, and molecular–genetic mechanisms, as well as to identify effective and economically sustainable models for the management of patients with multiple chronic conditions within a patient-centered framework.
 <<<<<<< HEAD
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-=======
-                                                                          ## License
+License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
