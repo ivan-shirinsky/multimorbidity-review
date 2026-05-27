@@ -18,14 +18,14 @@ DOI: [10.5281/zenodo.20392649](https://doi.org/10.5281/zenodo.20392649)
 [Download PDF](multimorbidity_paper.pdf)
 
 
+
 ## Authors / Авторы
 
-**[Ivan Shirinsky / И.В. Ширинский](https://orcid.org/0000-0002-8603-3406)**  
-ORCID: https://orcid.org/0000-0002-8603-3406  
+**Ivan Shirinsky / И.В. Ширинский**  
+[https://orcid.org/0000-0002-8603-3406](https://orcid.org/0000-0002-8603-3406)
 
-
-**[Valery Shirinsky / В.С. Ширинский](https://orcid.org/0000-0002-4922-9303)**  
-ORCID: https://orcid.org/0000-0002-4922-9303  
+**Valery Shirinsky / В.С. Ширинский**  
+[https://orcid.org/0000-0002-4922-9303](https://orcid.org/0000-0002-4922-9303)
 
 
 ---
