@@ -2,7 +2,7 @@
 
 ## Current issues in multimorbidity
 
-Open-access scholarly review.
+Open-access scholarly review / Открытый научный обзор
 
 *This review is made freely available online to support open scientific communication and broader dissemination of current concepts in multimorbidity research.*
 
