@@ -4,6 +4,10 @@
 
 Open-access scholarly review.
 
+*This review is made freely available online to support open scientific communication and broader dissemination of current concepts in multimorbidity research.*
+
+*Обзор размещён в открытом доступе с целью поддержки свободного научного обмена и более широкого распространения современных представлений о мультиморбидности.*
+
 DOI: https://doi.org/10.5281/zenodo.20392649
 
 [Download PDF](multimorbidity_paper.pdf)
