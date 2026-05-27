@@ -10,7 +10,9 @@ Open-access scholarly review
 
 *Обзор размещён в открытом доступе с целью поддержки свободного научного обмена и более широкого распространения современных представлений о мультиморбидности.*
 
-DOI: https://doi.org/10.5281/zenodo.20392649
+DOI: [10.5281/zenodo.20392649](https://doi.org/10.5281/zenodo.20392649)
+
+[View on Zenodo](https://zenodo.org/records/20392649)
 
 [Download PDF](multimorbidity_paper.pdf)
 
