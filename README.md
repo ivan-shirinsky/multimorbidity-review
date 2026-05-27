@@ -22,11 +22,11 @@ DOI: [10.5281/zenodo.20392649](https://doi.org/10.5281/zenodo.20392649)
 
 **[Ivan Shirinsky / И.В. Ширинский](https://orcid.org/0000-0002-8603-3406)**  
 ORCID: https://orcid.org/0000-0002-8603-3406  
-SPIN-code: 9360-7986
+
 
 **[Valery Shirinsky / В.С. Ширинский](https://orcid.org/0000-0002-4922-9303)**  
 ORCID: https://orcid.org/0000-0002-4922-9303  
-SPIN-code: 9476-4554
+
 
 ---
 
