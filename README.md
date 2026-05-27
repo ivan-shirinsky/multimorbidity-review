@@ -1,3 +1,4 @@
+[← Главная страница](https://ivan-shirinsky.github.io/)
 # Современные проблемы мультиморбидности
 
 ## Current issues in multimorbidity
