@@ -42,6 +42,14 @@ https://doi.org/10.5281/zenodo.20392649
 Ширинский И.В., Ширинский В.С. *Современные проблемы мультиморбидности*. Zenodo; 2026.  
 https://doi.org/10.5281/zenodo.20392649
 
+## Keywords
+
+multimorbidity; comorbidity; polymorbidity; chronic diseases; multimorbidity clusters; polypharmacy; chronic pain; musculoskeletal disorders; osteoarthritis; aging; inflammaging; frailty; patient-centered care; social determinants of health; multimorbidity management
+
+## Ключевые слова
+
+мультиморбидность; коморбидность; полиморбидность; множественные хронические заболевания; кластеры мультиморбидности; полипрагмазия; хроническая боль; заболевания опорно-двигательного аппарата; остеоартрит; старение; иммунное старение; inflammaging; синдемия; синтропия; социальные детерминанты здоровья; биопсихосоциальная модель; пациент-ориентированный подход; качество жизни; гериатрия; внутренняя медицина; хрупкость; ведение мультиморбидности
+
 ## License
 
 This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
