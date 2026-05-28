@@ -425,7 +425,7 @@ https://doi.org/10.1017/S1463423622000238
  
 46. Драпкина ОМ, Концевая АВ, Калинина АМ, Авдеев СН, Агальцов МВ, Алексеева ЛИ, и др. Коморбидность пациентов с хроническими неинфекционными заболеваниями в практике врача-терапевта. Евразийское руководство. Кардиоваскулярная терапия и профилактика. 2024 Apr 1;23(3):3996 https://doi.org/10.15829/1728-8800-2024-3996
  
-47. Rankin A, Cadogan CA, Patterson SM, Kerse N, Cardwell CR, Bradley MC, et al. Interventions to improve the appropriate use of polypharmacy for older people. Cochrane Effective Practice and Organisation of Care Group, editor. Cochrane Database of Systematic Reviews \[Internet\]. 2018 Sept 3 \[cited 2025 Aug 27\];2018(9).https://doi.org/10.1002/14651858.CD008165.pub4
+47. Rankin A, Cadogan CA, Patterson SM, Kerse N, Cardwell CR, Bradley MC, Ryan C, Hughes C. Interventions to improve the appropriate use of polypharmacy for older people. Cochrane Database of Systematic Reviews 2018, Issue 9. Art. No.: CD008165. https://doi.org/10.1002/14651858.CD008165.pub4
 
 
 
