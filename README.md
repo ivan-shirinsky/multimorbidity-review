@@ -331,144 +331,101 @@ https://creativecommons.org/licenses/by/4.0/
 **Литература**  
 
 
-1. The PLOS Medicine Editors. Multimorbidity: Addressing the next global pandemic. PLoS Med. 2023 Apr 4;20(4):e1004229. doi:10.1371/journal.pmed.1004229
-https://doi.org/10.1371/journal.pmed.1004229
+1. The PLOS Medicine Editors. Multimorbidity: Addressing the next global pandemic. PLoS Med. 2023 Apr 4;20(4):e1004229. https://doi.org/10.1371/journal.pmed.1004229
  
-2. Jani BD, Hanlon P, Nicholl BI, McQueenie R, Gallacher KI, Lee D, et al. Relationship between multimorbidity, demographic factors and mortality: findings from the UK Biobank cohort. BMC Med. 2019 Dec;17(1):74. doi:10.1186/s12916-019-1305-x
-https://doi.org/10.1186/s12916-019-1305-x
+2. Jani BD, Hanlon P, Nicholl BI, McQueenie R, Gallacher KI, Lee D, et al. Relationship between multimorbidity, demographic factors and mortality: findings from the UK Biobank cohort. BMC Med. 2019 Dec;17(1):74. https://doi.org/10.1186/s12916-019-1305-x
  
-3. Van Blarikom E, Fudge N, Swinglehurst D. The emergence of multimorbidity as a matter of concern: a critical review. BioSocieties. 2023 Sept;18(3):614--631. doi:10.1057/s41292-022-00285-5
-https://doi.org/10.1057/s41292-022-00285-5
+3. Van Blarikom E, Fudge N, Swinglehurst D. The emergence of multimorbidity as a matter of concern: a critical review. BioSocieties. 2023 Sept;18(3):614--631. https://doi.org/10.1057/s41292-022-00285-5
  
-4. Álvarez-Gálvez J, Ortega-Martín E, Carretero-Bravo J, Pérez-Muñoz C, Suárez-Lledó V, Ramos-Fiol B. Social determinants of multimorbidity patterns: A systematic review. Front Public Health. 2023 Mar 27;11:1081518. doi:10.3389/fpubh.2023.1081518
-https://doi.org/10.3389/fpubh.2023.1081518
+4. Álvarez-Gálvez J, Ortega-Martín E, Carretero-Bravo J, Pérez-Muñoz C, Suárez-Lledó V, Ramos-Fiol B. Social determinants of multimorbidity patterns: A systematic review. Front Public Health. 2023 Mar 27;11:1081518. https://doi.org/10.3389/fpubh.2023.1081518
  
-5. Skou ST, Mair FS, Fortin M, Guthrie B, Nunes BP, Miranda JJ, et al. Multimorbidity. Nat Rev Dis Primers. 2022 July 14;8(1):48. doi:10.1038/s41572-022-00376-4
-https://doi.org/10.1038/s41572-022-00376-4
+5. Skou ST, Mair FS, Fortin M, Guthrie B, Nunes BP, Miranda JJ, et al. Multimorbidity. Nat Rev Dis Primers. 2022 July 14;8(1):48. https://doi.org/10.1038/s41572-022-00376-4
  
-6. Miranda JJ, Bernabe-Ortiz A, Gilman RH, Smeeth L, Malaga G, Wise RA, et al. Multimorbidity at sea level and high-altitude urban and rural settings: The CRONICAS Cohort Study. J Comorb. 2019 Jan 1;9:2235042X19875297. doi:10.1177/2235042X19875297
-https://doi.org/10.1177/2235042X19875297
+6. Miranda JJ, Bernabe-Ortiz A, Gilman RH, Smeeth L, Malaga G, Wise RA, et al. Multimorbidity at sea level and high-altitude urban and rural settings: The CRONICAS Cohort Study. J Comorb. 2019 Jan 1;9:2235042X19875297. https://doi.org/10.1177/2235042X19875297
  
-7. Mair FS, Foster HM, Nicholl BI. Multimorbidity and the COVID-19 pandemic -- An urgent call to action. J Comorb. 2020 Jan 1;10:2235042X2096167. doi:10.1177/2235042X20961676
-https://doi.org/10.1177/2235042X20961676
+7. Mair FS, Foster HM, Nicholl BI. Multimorbidity and the COVID-19 pandemic -- An urgent call to action. J Comorb. 2020 Jan 1;10:2235042X2096167. https://doi.org/10.1177/2235042X20961676
  
-8. Arokiasamy P, Uttamacharya U, Jain K, Biritwum RB, Yawson AE, Wu F, et al. The impact of multimorbidity on adult physical and mental health in low- and middle-income countries: what does the study on global ageing and adult health (SAGE) reveal? BMC Med. 2015 Dec;13(1):178. doi:10.1186/s12916-015-0402-8
-https://doi.org/10.1186/s12916-015-0402-8
+8. Arokiasamy P, Uttamacharya U, Jain K, Biritwum RB, Yawson AE, Wu F, et al. The impact of multimorbidity on adult physical and mental health in low- and middle-income countries: what does the study on global ageing and adult health (SAGE) reveal? BMC Med. 2015 Dec;13(1):178. https://doi.org/10.1186/s12916-015-0402-8
  
-9. Pathirana TI, Jackson CA. Socioeconomic status and multimorbidity: a systematic review and meta‐analysis. Australian and New Zealand Journal of Public Health. 2018 Apr;42(2):186--194. doi:10.1111/1753-6405.12762
-https://doi.org/10.1111/1753-6405.12762
+9. Pathirana TI, Jackson CA. Socioeconomic status and multimorbidity: a systematic review and meta‐analysis. Australian and New Zealand Journal of Public Health. 2018 Apr;42(2):186--194. https://doi.org/10.1111/1753-6405.12762
  
-10. Melo LAD, Braga LDC, Leite FPP, Bittar BF, Oséas JMDF, Lima KCD. Factors associated with multimorbidity in the elderly: an integrative literature review. Rev bras geriatr gerontol. 2019;22(1):e180154. doi:10.1590/1981-22562019022.180154
-https://doi.org/10.1590/1981-22562019022.180154
+10. Melo LAD, Braga LDC, Leite FPP, Bittar BF, Oséas JMDF, Lima KCD. Factors associated with multimorbidity in the elderly: an integrative literature review. Rev bras geriatr gerontol. 2019;22(1):e180154. https://doi.org/10.1590/1981-22562019022.180154
  
-11. Tazzeo C, Zucchelli A, Vetrano DL, Demurtas J, Smith L, Schoene D, et al. Risk factors for multimorbidity in adulthood: A systematic review. Ageing Research Reviews. 2023 Nov;91:102039. doi:10.1016/j.arr.2023.102039
-https://doi.org/10.1016/j.arr.2023.102039
+11. Tazzeo C, Zucchelli A, Vetrano DL, Demurtas J, Smith L, Schoene D, et al. Risk factors for multimorbidity in adulthood: A systematic review. Ageing Research Reviews. 2023 Nov;91:102039. https://doi.org/10.1016/j.arr.2023.102039
  
-12. Katikireddi SV, Skivington K, Leyland AH, Hunt K, Mercer SW. The contribution of risk factors to socioeconomic inequalities in multimorbidity across the lifecourse: a longitudinal analysis of the Twenty-07 cohort. BMC Med. 2017 Dec;15(1):152. doi:10.1186/s12916-017-0913-6
-https://doi.org/10.1186/s12916-017-0913-6
+12. Katikireddi SV, Skivington K, Leyland AH, Hunt K, Mercer SW. The contribution of risk factors to socioeconomic inequalities in multimorbidity across the lifecourse: a longitudinal analysis of the Twenty-07 cohort. BMC Med. 2017 Dec;15(1):152. https://doi.org/10.1186/s12916-017-0913-6
  
-13. Prior A, Vestergaard M, Larsen KK, Fenger-Grøn M. Association between perceived stress, multimorbidity and primary care health services: a Danish population-based cohort study. BMJ Open. 2018 Feb;8(2):e018323. doi:10.1136/bmjopen-2017-018323
-https://doi.org/10.1136/bmjopen-2017-018323
+13. Prior A, Vestergaard M, Larsen KK, Fenger-Grøn M. Association between perceived stress, multimorbidity and primary care health services: a Danish population-based cohort study. BMJ Open. 2018 Feb;8(2):e018323. https://doi.org/10.1136/bmjopen-2017-018323
  
-14. Dixon J, Mendenhall E. Syndemic thinking to address multimorbidity and its structural determinants. Nat Rev Dis Primers. 2023 May 4;9(1):23.doi:10.1038/s41572-023-00437-2
-https://doi.org/10.1038/s41572-023-00437-2
+14. Dixon J, Mendenhall E. Syndemic thinking to address multimorbidity and its structural determinants. Nat Rev Dis Primers. 2023 May 4;9(1):23. https://doi.org/10.1038/s41572-023-00437-2
  
-15. Williams A, Kamper SJ, Wiggers JH, O'Brien KM, Lee H, Wolfenden L, et al. Musculoskeletal conditions may increase the risk of chronic disease: a systematic review and meta-analysis of cohort studies. BMC Med. 2018 Dec;16(1):167. doi:10.1186/s12916-018-1151-2
-https://doi.org/10.1186/s12916-018-1151-2
+15. Williams A, Kamper SJ, Wiggers JH, O'Brien KM, Lee H, Wolfenden L, et al. Musculoskeletal conditions may increase the risk of chronic disease: a systematic review and meta-analysis of cohort studies. BMC Med. 2018 Dec;16(1):167. https://doi.org/10.1186/s12916-018-1151-2
  
-16. Beaney T, Clarke J, Salman D, Woodcock T, Majeed A, Aylin P, et al. Identifying multi-resolution clusters of diseases in ten million patients with multimorbidity in primary care in England. Commun Med. 2024 May 29;4(1):102. doi:10.1038/s43856-024-00529-4
-https://doi.org/10.1038/s43856-024-00529-4
+16. Beaney T, Clarke J, Salman D, Woodcock T, Majeed A, Aylin P, et al. Identifying multi-resolution clusters of diseases in ten million patients with multimorbidity in primary care in England. Commun Med. 2024 May 29;4(1):102. https://doi.org/10.1038/s43856-024-00529-4
  
-17. Ng SK, Tawiah R, Sawyer M, Scuffham P. Patterns of multimorbid health conditions: a systematic review of analytical methods and comparison analysis. International Journal of Epidemiology. 2018 Oct 1;47(5):1687--1704. doi:10.1093/ije/dyy134
-https://doi.org/10.1093/ije/dyy134
+17. Ng SK, Tawiah R, Sawyer M, Scuffham P. Patterns of multimorbid health conditions: a systematic review of analytical methods and comparison analysis. International Journal of Epidemiology. 2018 Oct 1;47(5):1687--1704. https://doi.org/10.1093/ije/dyy134
  
-18. Steell L, Krauth SJ, Ahmed S, Dibben GO, McIntosh E, Hanlon P, et al. Multimorbidity clusters and their associations with health-related quality of life in two UK cohorts. BMC Med. 2025 Jan 8;23(1):1. doi:10.1186/s12916-024-03811-3
-https://doi.org/10.1186/s12916-024-03811-3
+18. Steell L, Krauth SJ, Ahmed S, Dibben GO, McIntosh E, Hanlon P, et al. Multimorbidity clusters and their associations with health-related quality of life in two UK cohorts. BMC Med. 2025 Jan 8;23(1):1. https://doi.org/10.1186/s12916-024-03811-3
  
-19. Bisquera A, Gulliford M, Dodhia H, Ledwaba-Chapman L, Durbaba S, Soley-Bori M, et al. Identifying longitudinal clusters of multimorbidity in an urban setting: A population-based cross-sectional study. The Lancet Regional Health - Europe. 2021 Apr;3:100047. doi:10.1016/j.lanepe.2021.100047
-https://doi.org/10.1016/j.lanepe.2021.100047
+19. Bisquera A, Gulliford M, Dodhia H, Ledwaba-Chapman L, Durbaba S, Soley-Bori M, et al. Identifying longitudinal clusters of multimorbidity in an urban setting: A population-based cross-sectional study. The Lancet Regional Health - Europe. 2021 Apr;3:100047. https://doi.org/10.1016/j.lanepe.2021.100047
  
-20. Plasencia G, Gray SC, Hall IJ, Smith JL. Multimorbidity clusters in adults 50 years or older with and without a history of cancer: National Health Interview Survey, 2018. BMC Geriatr. 2024 Jan 11;24(1):50. doi:10.1186/s12877-023-04603-9
-https://doi.org/10.1186/s12877-023-04603-9
+20. Plasencia G, Gray SC, Hall IJ, Smith JL. Multimorbidity clusters in adults 50 years or older with and without a history of cancer: National Health Interview Survey, 2018. BMC Geriatr. 2024 Jan 11;24(1):50. https://doi.org/10.1186/s12877-023-04603-9
  
-21. Dong X, Ma Y, Zhang H, Wang P. Individual-level transitions between chronic disease multimorbidity clusters and the risk of five-year mortality in longitudinal cohort of Chinese middle-aged and older adults. Aging Clin Exp Res. 2025 July 9;37(1):216. doi:10.1007/s40520-025-03078-5
-https://doi.org/10.1007/s40520-025-03078-5
+21. Dong X, Ma Y, Zhang H, Wang P. Individual-level transitions between chronic disease multimorbidity clusters and the risk of five-year mortality in longitudinal cohort of Chinese middle-aged and older adults. Aging Clin Exp Res. 2025 July 9;37(1):216. https://doi.org/10.1007/s40520-025-03078-5
  
-22. Han S, Li S, Yang Y, Liu L, Ma L, Leng Z, et al. Mapping multimorbidity progression among 190 diseases. Commun Med. 2024 July 11;4(1):139. doi:10.1038/s43856-024-00563-2
-https://doi.org/10.1038/s43856-024-00563-2
+22. Han S, Li S, Yang Y, Liu L, Ma L, Leng Z, et al. Mapping multimorbidity progression among 190 diseases. Commun Med. 2024 July 11;4(1):139. https://doi.org/10.1038/s43856-024-00563-2
  
 23. Robertson L, Vieira R, Butler J, Johnston M, Sawhney S, Black C. Identifying multimorbidity clusters in an unselected population of hospitalised patients. Sci Rep. 2022 Mar 24;12(1):5134. doi:10.1038/s41598-022-08690-3
 https://doi.org/10.1038/s41598-022-08690-3
  
-24. Busija L, Lim K, Szoeke C, Sanders KM, McCabe MP. Do replicable profiles of multimorbidity exist? Systematic review and synthesis. Eur J Epidemiol. 2019 Nov;34(11):1025--1053. doi:10.1007/s10654-019-00568-5
-https://doi.org/10.1007/s10654-019-00568-5
+24. Busija L, Lim K, Szoeke C, Sanders KM, McCabe MP. Do replicable profiles of multimorbidity exist? Systematic review and synthesis. Eur J Epidemiol. 2019 Nov;34(11):1025--1053. https://doi.org/10.1007/s10654-019-00568-5
  
-25. Marengoni A, Triolo F, Zucchelli A. Multimorbidity clusters: translating research evidence into actionable interventions. Eur Geriatr Med. 2025 July 11;16(4):1115--1120. doi:10.1007/s41999-025-01270-4
-https://doi.org/10.1007/s41999-025-01270-4
+25. Marengoni A, Triolo F, Zucchelli A. Multimorbidity clusters: translating research evidence into actionable interventions. Eur Geriatr Med. 2025 July 11;16(4):1115--1120. https://doi.org/10.1007/s41999-025-01270-4
  
-26. Duffield SJ, Ellis BM, Goodson N, Walker-Bone K, Conaghan PG, Margham T, et al. The contribution of musculoskeletal disorders in multimorbidity: Implications for practice and policy. Best Practice & Research Clinical Rheumatology. 2017 Apr;31(2):129--144. doi:10.1016/j.berh.2017.09.004
-https://doi.org/10.1016/j.berh.2017.09.004
+26. Duffield SJ, Ellis BM, Goodson N, Walker-Bone K, Conaghan PG, Margham T, et al. The contribution of musculoskeletal disorders in multimorbidity: Implications for practice and policy. Best Practice & Research Clinical Rheumatology. 2017 Apr;31(2):129--144. https://doi.org/10.1016/j.berh.2017.09.004
  
-27. Simões D, Lucas R. Exploring the Role of Rheumatic and Musculoskeletal Diseases in Multimorbidity. In: Akarsu S, editor. An Overview and Management of Multiple Chronic Conditions \[Internet\]. IntechOpen; 2020 \[cited 2025 Aug 27\]. Available from: https://www.intechopen.com/books/an-overview-and-management-of-multiple-chronic-conditions/exploring-the-role-of-rheumatic-and-musculoskeletal-diseases-in-multimorbidity doi:10.5772/intechopen.85434
-https://doi.org/10.5772/intechopen.85434
+27. Simões D, Lucas R. Exploring the Role of Rheumatic and Musculoskeletal Diseases in Multimorbidity. In: Akarsu S, editor. An Overview and Management of Multiple Chronic Conditions \[Internet\]. IntechOpen; 2020 \[cited 2025 Aug 27\]. Available from: https://www.intechopen.com/books/an-overview-and-management-of-multiple-chronic-conditions/exploring-the-role-of-rheumatic-and-musculoskeletal-diseases-in-multimorbidity https://doi.org/10.5772/intechopen.85434
  
-28. Пузырев ВП. Генетические основы коморбидности у человека. Генетика. 2015;51(4):491--502. [doi:10.7868/S0016675815040098](https://doi.org/10.7868/S0016675815040098) \[Puzyrev V.P. Genetic bases of human comorbidity. Russ. J. Genet. 2015;51(4):408-417. DOI 10.1134/S1022795415040092.\]
-https://doi.org/10.7868/S0016675815040098
+28. Пузырев ВП. Генетические основы коморбидности у человека. Генетика. 2015;51(4):491--502. https://doi.org/10.7868/S0016675815040098
  
-29. Dong G, Feng J, Sun F, Chen J, Zhao XM. A global overview of genetically interpretable multimorbidities among common diseases in the UK Biobank. Genome Med. 2021 Dec;13(1):110. doi:10.1186/s13073-021-00927-6
-https://doi.org/10.1186/s13073-021-00927-6
+29. Dong G, Feng J, Sun F, Chen J, Zhao XM. A global overview of genetically interpretable multimorbidities among common diseases in the UK Biobank. Genome Med. 2021 Dec;13(1):110. https://doi.org/10.1186/s13073-021-00927-6
  
-30. Ferreira MA, Vonk JM, Baurecht H, Marenholz I, Tian C, Hoffman JD, et al. Shared genetic origin of asthma, hay fever and eczema elucidates allergic disease biology. Nat Genet. 2017 Dec;49(12):1752--1757. doi:10.1038/ng.3985
-https://doi.org/10.1038/ng.3985
+30. Ferreira MA, Vonk JM, Baurecht H, Marenholz I, Tian C, Hoffman JD, et al. Shared genetic origin of asthma, hay fever and eczema elucidates allergic disease biology. Nat Genet. 2017 Dec;49(12):1752--1757. https://doi.org/10.1038/ng.3985
  
-31. Shadrina AS, Sharapov SZ, Shashkova TI, Tsepilov YA. Varicose veins of lower extremities: Insights from the first large-scale genetic study. Cordell HJ, editor. PLoS Genet. 2019 Apr 18;15(4):e1008110. doi:10.1371/journal.pgen.1008110
-https://doi.org/10.1371/journal.pgen.1008110
+31. Shadrina AS, Sharapov SZ, Shashkova TI, Tsepilov YA. Varicose veins of lower extremities: Insights from the first large-scale genetic study. Cordell HJ, editor. PLoS Genet. 2019 Apr 18;15(4):e1008110. https://doi.org/10.1371/journal.pgen.1008110
  
-32. Makovski TT, Schmitz S, Zeegers MP, Stranges S, Van Den Akker M. Multimorbidity and quality of life: Systematic literature review and meta-analysis. Ageing Research Reviews. 2019 Aug;53:100903. doi:10.1016/j.arr.2019.04.005
-https://doi.org/10.1016/j.arr.2019.04.005
+32. Makovski TT, Schmitz S, Zeegers MP, Stranges S, Van Den Akker M. Multimorbidity and quality of life: Systematic literature review and meta-analysis. Ageing Research Reviews. 2019 Aug;53:100903. https://doi.org/10.1016/j.arr.2019.04.005
  
-33. Ferrucci L, Fabbri E. Inflammageing: chronic inflammation in ageing, cardiovascular disease, and frailty. Nat Rev Cardiol. 2018 Sept;15(9):505--522. doi:10.1038/s41569-018-0064-2
-https://doi.org/10.1038/s41569-018-0064-2
+33. Ferrucci L, Fabbri E. Inflammageing: chronic inflammation in ageing, cardiovascular disease, and frailty. Nat Rev Cardiol. 2018 Sept;15(9):505--522. https://doi.org/10.1038/s41569-018-0064-2
  
-34. Friedman E, Shorey C. Inflammation in multimorbidity and disability: An integrative review. Health Psychology. 2019 Sept;38(9):791--801. doi:10.1037/hea0000749
-https://doi.org/10.1037/hea0000749
+34. Friedman E, Shorey C. Inflammation in multimorbidity and disability: An integrative review. Health Psychology. 2019 Sept;38(9):791--801. https://doi.org/10.1037/hea0000749
  
-35. Ширинский ВС, Ширинский ИВ. Полиморбидность, старение иммунной системы и системное вялотекущее воспаление-вызов современной медицине. Медицинская иммунология. 2020;22(4):609--624. \[Shirinsky V.S., Shirinsky I.V. Polymorbidity, ageing of immune system and low-grade systemic inflammation: a challenge for modern medicine. Medical Immunology (Russia). 2020;22(4):609-624. (In Russ.)\] doi.org/10.15789/1563-0625-PAO-2042
-https://doi.org/10.15789/1563-0625-PAO-2042
+35. Ширинский ВС, Ширинский ИВ. Полиморбидность, старение иммунной системы и системное вялотекущее воспаление-вызов современной медицине. Медицинская иммунология. 2020;22(4):609--624. \[Shirinsky V.S., Shirinsky I.V. Polymorbidity, ageing of immune system and low-grade systemic inflammation: a challenge for modern medicine. Medical Immunology (Russia). 2020;22(4):609-624. (In Russ.)\] https://doi.org/10.15789/1563-0625-PAO-2042
  
-36. Barnes PJ. Mechanisms of development of multimorbidity in the elderly. Eur Respir J. 2015 Mar;45(3):790--806. doi:10.1183/09031936.00229714
-https://doi.org/10.1183/09031936.00229714
+36. Barnes PJ. Mechanisms of development of multimorbidity in the elderly. Eur Respir J. 2015 Mar;45(3):790--806. https://doi.org/10.1183/09031936.00229714
  
-37. Wetterling T. Pathogenesis of multimorbidity---what is known? Z Gerontol Geriat. 2021 Oct;54(6):590--596. doi:10.1007/s00391-020-01752-z
-https://doi.org/10.1007/s00391-020-01752-z
+37. Wetterling T. Pathogenesis of multimorbidity---what is known? Z Gerontol Geriat. 2021 Oct;54(6):590--596. https://doi.org/10.1007/s00391-020-01752-z
  
-38. Aramrat C, Choksomngam Y, Jiraporncharoen W, Wiwatkunupakarn N, Pinyopornpanish K, Mallinson PAC, et al. Advancing multimorbidity management in primary care: a narrative review. Prim Health Care Res Dev. 2022;23:e36. doi:10.1017/S1463423622000238
+38. Aramrat C, Choksomngam Y, Jiraporncharoen W, Wiwatkunupakarn N, Pinyopornpanish K, Mallinson PAC, et al. Advancing multimorbidity management in primary care: a narrative review. Prim Health Care Res Dev. 2022;23:e36. 
 https://doi.org/10.1017/S1463423622000238
  
-39. Rimmelzwaan LM, Bogerd MJL, Schumacher BMA, Slottje P, Van Hout HPJ, Reinders ME. Multimorbidity in General Practice: Unmet Care Needs From a Patient Perspective. Front Med. 2020 Dec 22;7:530085. doi:10.3389/fmed.2020.530085
-https://doi.org/10.3389/fmed.2020.530085
+39. Rimmelzwaan LM, Bogerd MJL, Schumacher BMA, Slottje P, Van Hout HPJ, Reinders ME. Multimorbidity in General Practice: Unmet Care Needs From a Patient Perspective. Front Med. 2020 Dec 22;7:530085. https://doi.org/10.3389/fmed.2020.530085
  
-40. Smith SM, Wallace E, O'Dowd T, Fortin M. Interventions for improving outcomes in patients with multimorbidity in primary care and community settings. Cochrane Database Syst Rev. 2021 Jan 15;1(1):CD006560. [doi:10.1002/14651858.CD006560.pub4](https://doi.org/10.1002/14651858.CD006560.pub4)
-https://doi.org/10.1002/14651858.CD006560.pub4
+40. Smith SM, Wallace E, O'Dowd T, Fortin M. Interventions for improving outcomes in patients with multimorbidity in primary care and community settings. Cochrane Database Syst Rev. 2021 Jan 15;1(1):CD006560. https://doi.org/10.1002/14651858.CD006560.pub4
  
 41. National Institute for Health and Care Excellence. Multimorbidity: Clinical assessment and management \[Internet\]. NICE; 2016. Available from: https://www.nice.org.uk/guidance/ng56
  
-42. Bricca A, Smith SM, Skou ST. Management of multimorbidity. Journal of Multimorbidity and Comorbidity. 2023 Sept;13:26335565231156693. doi:10.1177/26335565231156693
-https://doi.org/10.1177/26335565231156693
+42. Bricca A, Smith SM, Skou ST. Management of multimorbidity. Journal of Multimorbidity and Comorbidity. 2023 Sept;13:26335565231156693. https://doi.org/10.1177/26335565231156693
  
-43. Duggal NA, Niemiro G, Harridge SDR, Simpson RJ, Lord JM. Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity? Nat Rev Immunol. 2019 Sept;19(9):563--572. doi:10.1038/s41577-019-0177-9
-https://doi.org/10.1038/s41577-019-0177-9
+43. Duggal NA, Niemiro G, Harridge SDR, Simpson RJ, Lord JM. Can physical activity ameliorate immunosenescence and thereby reduce age-related multi-morbidity? Nat Rev Immunol. 2019 Sept;19(9):563--572. https://doi.org/10.1038/s41577-019-0177-9
  
-44. Andreou E, Papaneophytou C. Boosting Immunity Through Nutrition and Gut Health: A Narrative Review on Managing Allergies and Multimorbidity. Nutrients. 2025 May 15;17(10):1685. doi:10.3390/nu17101685
-https://doi.org/10.3390/nu17101685
+44. Andreou E, Papaneophytou C. Boosting Immunity Through Nutrition and Gut Health: A Narrative Review on Managing Allergies and Multimorbidity. Nutrients. 2025 May 15;17(10):1685. https://doi.org/10.3390/nu17101685
  
-45. Оганов РГ, Симаненков ВИ, Бакулин ИГ, Бакулина НВ, Барбараш ОЛ, Бойцов СА, и др. Коморбидная патология в клинической практике. Алгоритмы диагностики и лечения. Кардиоваскулярная терапия и профилактика. 2019 Mar 1;18(1):5--66. [doi:10.15829/1728-8800-2019-1-5-66](https://doi.org/10.15829/1728-8800-2019-1-5-66) \[Oganov R.G., Simanenkov V.I., Bakulin I.G., Bakulina N.V., Barbarash O.L., Boytsov S.A., et al. Comorbidities in clinical practice. Algorithms for diagnostics and treatment. Cardiovascular Therapy and Prevention. 2019;18(1):5-66. (In Russ.) <https://doi.org/10.15829/1728-8800-2019-1-5-66\]
-https://doi.org/10.15829/1728-8800-2019-1-5-66
+45. Оганов РГ, Симаненков ВИ, Бакулин ИГ, Бакулина НВ, Барбараш ОЛ, Бойцов СА, и др. Коморбидная патология в клинической практике. Алгоритмы диагностики и лечения. Кардиоваскулярная терапия и профилактика. 2019 Mar 1;18(1):5--66. [doi:10.15829/1728-8800-2019-1-5-66](https://doi.org/10.15829/1728-8800-2019-1-5-66) \[Oganov R.G., Simanenkov V.I., Bakulin I.G., Bakulina N.V., Barbarash O.L., Boytsov S.A., et al. Comorbidities in clinical practice. Algorithms for diagnostics and treatment. Cardiovascular Therapy and Prevention. 2019;18(1):5-66. (In Russ.) https://doi.org/10.15829/1728-8800-2019-1-5-66
  
-46. Драпкина ОМ, Концевая АВ, Калинина АМ, Авдеев СН, Агальцов МВ, Алексеева ЛИ, и др. Коморбидность пациентов с хроническими неинфекционными заболеваниями в практике врача-терапевта. Евразийское руководство. Кардиоваскулярная терапия и профилактика. 2024 Apr 1;23(3):3996.[doi:10.15829/1728-8800-2024-3996](https://doi.org/10.15829/1728-8800-2024-3996) \[Drapkina O.M., Kontsevaya A.V., Kalinina A.M., Avdeev S.N., Agaltsov M.V., Alekseeva L.I.,et al. Comorbidity of patients with noncommunicable diseases in general practice. Eurasian guidelines. Cardiovascular Therapy and Prevention. 23(3):3996. (In Russ.) doi/1728- 880.org/10.158290-2024-3996. EDN: \]
+46. Драпкина ОМ, Концевая АВ, Калинина АМ, Авдеев СН, Агальцов МВ, Алексеева ЛИ, и др. Коморбидность пациентов с хроническими неинфекционными заболеваниями в практике врача-терапевта. Евразийское руководство. Кардиоваскулярная терапия и профилактика. 2024 Apr 1;23(3):3996 https://doi.org/10.15829/1728-8800-2024-3996
  
-47. Rankin A, Cadogan CA, Patterson SM, Kerse N, Cardwell CR, Bradley MC, et al. Interventions to improve the appropriate use of polypharmacy for older people. Cochrane Effective Practice and Organisation of Care Group, editor. Cochrane Database of Systematic Reviews \[Internet\]. 2018 Sept 3 \[cited 2025 Aug 27\];2018(9). Available from: http://doi.wiley.com/10.1002/14651858.CD008165.pub4 doi:10.1002/14651858.CD008165.pub4
-https://doi.org/10.1002/14651858.CD008165.pub4
+47. Rankin A, Cadogan CA, Patterson SM, Kerse N, Cardwell CR, Bradley MC, et al. Interventions to improve the appropriate use of polypharmacy for older people. Cochrane Effective Practice and Organisation of Care Group, editor. Cochrane Database of Systematic Reviews \[Internet\]. 2018 Sept 3 \[cited 2025 Aug 27\];2018(9).https://doi.org/10.1002/14651858.CD008165.pub4
 
 
 
