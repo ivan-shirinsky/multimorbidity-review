@@ -17,6 +17,22 @@ DOI: [10.5281/zenodo.20392649](https://doi.org/10.5281/zenodo.20392649)
 
 [Download PDF](multimorbidity_paper.pdf)
 
+<!-- Метатеги для индексации в Google Scholar (Google Академия) -->
+<!-- Русскоязычная версия -->
+<meta name="citation_title" content="Современные проблемы мультиморбидности">
+<meta name="citation_author" content="Ширинский, И. В.">
+<meta name="citation_author" content="Ширинский, В. С.">
+<meta name="citation_publication_date" content="2026">
+<meta name="citation_online_date" content="2026/05/26">
+<meta name="citation_pdf_url" content="https://zenodo.org/files/multimorbidity_paper.pdf">
+<meta name="citation_doi" content="10.5281/zenodo.20392649">
+<meta name="citation_abstract_html_url" content="https://github.iomultimorbidity-review/">
+
+<!-- Англоязычная версия для международного поиска -->
+<meta name="citation_title" content="Modern Challenges of Multimorbidity Research">
+<meta name="citation_author" content="Shirinsky, Ivan">
+<meta name="citation_author" content="Shirinsky, Valery">
+<!-- Конец блока Google Scholar -->
 
 
 ## Authors / Авторы
